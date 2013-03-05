@@ -10,5 +10,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/ejb3215/ejb3215/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-core-4.0.1.Final.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

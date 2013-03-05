@@ -1,11 +1,20 @@
 package br.com.caelum.loja.entity;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+import javax.persistence.PrePersist;
+import javax.persistence.PreUpdate;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
 
 @Entity
 public class Livro implements Serializable {
@@ -16,6 +25,30 @@ public class Livro implements Serializable {
 	private Long id;
 	private String nome;
 	private double preco;
+	@Temporal(TemporalType.TIMESTAMP)
+	private Date dataAlteracao;
+
+	@ManyToMany(fetch = FetchType.EAGER)
+	private final List<Autor> autores = new ArrayList<Autor>();
+
+	public List<Autor> getAutores() {
+		return autores;
+	}
+
+	public void setDataAlteracao(Date dataAlteracao) {
+		this.dataAlteracao = dataAlteracao;
+	}
+
+	@PrePersist
+	@PreUpdate
+	public void preAltera(){
+		System.out.println("CALLBACK preAltera(): atualizando data automaticamente");
+		this.dataAlteracao = new Date();
+	}
+
+	public Date getDataAlteracao() {
+		return dataAlteracao;
+	}
 
 	public String getNome() {
 		return nome;

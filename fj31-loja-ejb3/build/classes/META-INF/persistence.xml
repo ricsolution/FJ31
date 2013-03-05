@@ -5,6 +5,7 @@
 	<persistence-unit name="loja" transaction-type="JTA">
 	<jta-data-source>java:/livrariaDS</jta-data-source>
 	<class>br.com.caelum.loja.entity.Livro</class>
+	<class>br.com.caelum.loja.entity.Autor</class>
 	  <properties>
 	    <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5InnoDBDialect"/>
 	    <property name="hibernate.hbm2ddl.auto" value="update"/>
