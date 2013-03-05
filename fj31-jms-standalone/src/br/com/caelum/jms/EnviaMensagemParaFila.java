@@ -32,7 +32,7 @@ public class EnviaMensagemParaFila {
 				Session.AUTO_ACKNOWLEDGE);
 
 		TextMessage textMessage = queueSession.createTextMessage();
-		textMessage.setText("Mensagem de texto para uma Queue (Fila)");
+		textMessage.setText("Orea seca!! (Fila)");
 
 		Queue queue = (Queue) ic.lookup("jms/queue/loja");
 
