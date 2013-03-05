@@ -5,14 +5,17 @@ import java.util.Map;
 
 import javax.ejb.Remote;
 import javax.ejb.Stateless;
+import javax.interceptor.Interceptors;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
 import br.com.caelum.loja.entity.Autor;
 import br.com.caelum.loja.entity.Livro;
+import br.com.caelum.loja.interceptor.AuditoriaInterceptor;
 
 @Stateless
 @Remote(GerenciadorLoja.class)
+@Interceptors(AuditoriaInterceptor.class)
 public class GerenciadorLojaBean implements GerenciadorLoja {
 	private final Map<String, Livro> repositorio;
 	@PersistenceContext
@@ -47,7 +50,7 @@ public class GerenciadorLojaBean implements GerenciadorLoja {
 		this.manager.persist(livro);
 
 		System.out.println("Livro salvo! Id: " + livro.getId());
-		throw new RuntimeException("Deu erro!");
+		// throw new RuntimeException("Deu erro!");
 	}
 
 	@Override
