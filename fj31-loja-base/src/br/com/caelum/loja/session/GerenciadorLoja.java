@@ -4,5 +4,6 @@ import br.com.caelum.loja.entity.Livro;
 
 public interface GerenciadorLoja {
 	Livro procura(String isbn);
+	void salva(Livro livro);
 
 }
