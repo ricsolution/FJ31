@@ -25,7 +25,7 @@ public class ConsultaDeLivrosBean implements ConsultaDeLivros {
 	@WebMethod
 	public List<Livro> buscaLivro(@WebParam(name = "nome") String nome) {
 		Query query = manager
-				.createNamedQuery("select l from Livro as l left join fetch l.autores where l.nome like :nome");
+				.createQuery("select l from Livro as l left join fetch l.autores where l.nome like :nome");
 		query.setParameter("nome", "%" + nome + "%");
 		return query.getResultList();
 

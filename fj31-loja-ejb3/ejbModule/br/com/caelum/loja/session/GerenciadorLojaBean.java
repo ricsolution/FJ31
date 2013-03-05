@@ -1,6 +1,7 @@
 package br.com.caelum.loja.session;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import javax.ejb.Remote;
@@ -46,11 +47,12 @@ public class GerenciadorLojaBean implements GerenciadorLoja {
 	}
 
 	@Override
-	public void salva(Livro livro) {
+	public Livro salva(Livro livro) {
 		this.manager.persist(livro);
 
 		System.out.println("Livro salvo! Id: " + livro.getId());
 		// throw new RuntimeException("Deu erro!");
+		return livro;
 	}
 
 	@Override
@@ -67,6 +69,15 @@ public class GerenciadorLojaBean implements GerenciadorLoja {
 		// TODO Auto-generated method stub
 
 		return this.manager.find(Livro.class, id);
+	}
+
+	@SuppressWarnings("unchecked")
+	@Override
+	public List<Livro> listaLivros() {
+
+		return this.manager.createQuery(
+				"select livro from Livro as livro join fetch livro.autores")
+				.getResultList();
 	}
 
 }
