@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="false" key="ShowDerived"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-ejb3/ejbModule/META-INF/persistence.xml&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLojaBean.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-base/src/br/com/caelum/loja/entity/Livro.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-base/src/br/com/caelum/loja/entity/Autor.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-client/appClientModule/jndi.properties&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-jms-standalone/src/br/com/caelum/jms/RegistraTratadorNoTopico.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/util/Livros.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-client/appClientModule/br/com/caelum/livraria/cliente/ClienteFinalizaCompra.java&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-jms-standalone/src/jndi.properties&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;infoNode path=&quot;/fj31-loja-rest/WebContent/WEB-INF/web.xml&quot; type=&quot;1&quot;/&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="119" key="DIALOG_Y_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="501" key="DIALOG_X_ORIGIN"/>
+			<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+</section>

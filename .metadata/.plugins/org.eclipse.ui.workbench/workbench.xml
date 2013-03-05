@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="68" version="2.0">
+<workbenchAdvisor/>
+<window height="566" maximized="true" width="1077" x="312" y="260">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="132" y="30"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="120" y="30"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="76" y="30"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="84" y="30"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="104" y="30"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="152" y="30"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="40" y="30"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="40" y="30"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.jboss.tools.jst.web.ui.server.actionSet" itemType="typeToolBarContribution" x="166" y="30"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wst.wsdl.ui.internal.WSDLEditor" itemType="typeToolBarContribution" x="229" y="30"/>
+<coolItem id="org.eclipse.wst.xsd.ui.internal.editor.InternalXSDMultiPageEditor" itemType="typePlaceholder" x="40" y="30"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.server.ui.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1359505173789" focus="true" label="Workspace - Java EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegistraTratadorNaFila.java" partName="RegistraTratadorNaFila.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-jms-standalone/src/br/com/caelum/jms/RegistraTratadorNaFila.java" title="RegistraTratadorNaFila.java" tooltip="fj31-jms-standalone/src/br/com/caelum/jms/RegistraTratadorNaFila.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-jms-standalone/src/br/com/caelum/jms/RegistraTratadorNaFila.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="602" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EnviaMensagemParaFila.java" partName="EnviaMensagemParaFila.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-jms-standalone/src/br/com/caelum/jms/EnviaMensagemParaFila.java" title="EnviaMensagemParaFila.java" tooltip="fj31-jms-standalone/src/br/com/caelum/jms/EnviaMensagemParaFila.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-jms-standalone/src/br/com/caelum/jms/EnviaMensagemParaFila.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="558" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TratadorDeMensagem.java" partName="TratadorDeMensagem.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-jms-standalone/src/br/com/caelum/jms/TratadorDeMensagem.java" title="TratadorDeMensagem.java" tooltip="fj31-jms-standalone/src/br/com/caelum/jms/TratadorDeMensagem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-jms-standalone/src/br/com/caelum/jms/TratadorDeMensagem.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="260" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Livro.java" partName="Livro.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-base/src/br/com/caelum/loja/entity/Livro.java" title="Livro.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/entity/Livro.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-base/src/br/com/caelum/loja/entity/Livro.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="16" selectionOffset="562" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Carrinho.java" partName="Carrinho.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-base/src/br/com/caelum/loja/session/Carrinho.java" title="Carrinho.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/Carrinho.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-base/src/br/com/caelum/loja/session/Carrinho.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="231" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Financeiro.java" partName="Financeiro.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/message/Financeiro.java" title="Financeiro.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/message/Financeiro.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/message/Financeiro.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="256" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MensageiroBean.java" partName="MensageiroBean.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java" title="MensageiroBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/MensageiroBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1428" selectionTopPixel="410"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Livros.java" partName="Livros.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/util/Livros.java" title="Livros.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/util/Livros.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/util/Livros.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="471" selectionTopPixel="121"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClienteFinalizaCompra.java" partName="ClienteFinalizaCompra.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-client/appClientModule/br/com/caelum/livraria/cliente/ClienteFinalizaCompra.java" title="ClienteFinalizaCompra.java" tooltip="fj31-loja-client/appClientModule/br/com/caelum/livraria/cliente/ClienteFinalizaCompra.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-client/appClientModule/br/com/caelum/livraria/cliente/ClienteFinalizaCompra.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="382" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="jndi.properties" partName="jndi.properties" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-client/appClientModule/jndi.properties" title="jndi.properties" tooltip="fj31-loja-client/appClientModule/jndi.properties" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-client/appClientModule/jndi.properties"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="56" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="jboss-ejb-client.properties" partName="jboss-ejb-client.properties" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-client/appClientModule/jboss-ejb-client.properties" title="jboss-ejb-client.properties" tooltip="fj31-loja-client/appClientModule/jboss-ejb-client.properties" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-client/appClientModule/jboss-ejb-client.properties"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="344" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="jndi.properties" partName="jndi.properties" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-jms-standalone/src/jndi.properties" title="jndi.properties" tooltip="fj31-jms-standalone/src/jndi.properties" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-jms-standalone/src/jndi.properties"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="181" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CalculadorDeParcela.java" partName="CalculadorDeParcela.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-webservice-standalone/src/br/com/caelum/webservices/CalculadorDeParcela.java" title="CalculadorDeParcela.java" tooltip="fj31-webservice-standalone/src/br/com/caelum/webservices/CalculadorDeParcela.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-webservice-standalone/src/br/com/caelum/webservices/CalculadorDeParcela.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="356" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Publicador.java" partName="Publicador.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-webservice-standalone/src/br/com/caelum/webservices/Publicador.java" title="Publicador.java" tooltip="fj31-webservice-standalone/src/br/com/caelum/webservices/Publicador.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-webservice-standalone/src/br/com/caelum/webservices/Publicador.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="42" selectionOffset="155" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.wsdl.ui.internal.WSDLEditor" name="CalculadorDeParcelaService.wsdl" partName="CalculadorDeParcelaService.wsdl" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-webservice-standalone/CalculadorDeParcelaService.wsdl" title="CalculadorDeParcelaService.wsdl" tooltip="fj31-webservice-standalone/CalculadorDeParcelaService.wsdl" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-webservice-standalone/CalculadorDeParcelaService.wsdl"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Programa.java" partName="Programa.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-webservices-standalone-cliente/src/br/com/caelum/cliente/programa/Programa.java" title="Programa.java" tooltip="fj31-webservices-standalone-cliente/src/br/com/caelum/cliente/programa/Programa.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-webservices-standalone-cliente/src/br/com/caelum/cliente/programa/Programa.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="381" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsumidorServicoCorreios.java" partName="ConsumidorServicoCorreios.java" path="/media/CAELUM/FJ31/FJ31 08-02-2013/workspace-fj31/fj31-jaxb-standalone/src/br/com/caelum/cliente/programa/ConsumidorServicoCorreios.java" title="ConsumidorServicoCorreios.java" tooltip="fj31-jaxb-standalone/src/br/com/caelum/cliente/programa/ConsumidorServicoCorreios.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-jaxb-standalone/src/br/com/caelum/cliente/programa/ConsumidorServicoCorreios.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="872" selectionTopPixel="194"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsultaDeLivros.java" partName="ConsultaDeLivros.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-base/src/br/com/caelum/loja/ws/ConsultaDeLivros.java" title="ConsultaDeLivros.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/ws/ConsultaDeLivros.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-base/src/br/com/caelum/loja/ws/ConsultaDeLivros.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="122" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsultaDeLivrosBean.java" partName="ConsultaDeLivrosBean.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/ConsultaDeLivrosBean.java" title="ConsultaDeLivrosBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/ConsultaDeLivrosBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/ConsultaDeLivrosBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="838" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" partName="web.xml" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-rest/WebContent/WEB-INF/web.xml" title="web.xml" tooltip="fj31-loja-rest/WebContent/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-rest/WebContent/WEB-INF/web.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLoja.java" partName="GerenciadorLoja.java" path="/home/ejb3215/Desktop/FJ31/workspace-fj31/fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java" title="GerenciadorLoja.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="260" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLojaBean.java" partName="GerenciadorLojaBean.java" path="/media/CAELUM/FJ31/FJ31 08-02-2013/workspace-fj31/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLojaBean.java" title="GerenciadorLojaBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLojaBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLojaBean.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="160" selectionTopPixel="132"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LojaResource.java" partName="LojaResource.java" path="/media/CAELUM/FJ31/FJ31 08-02-2013/workspace-fj31/fj31-loja-rest/src/br/com/caelum/loja/rest/LojaResource.java" title="LojaResource.java" tooltip="fj31-loja-rest/src/br/com/caelum/loja/rest/LojaResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fj31-loja-rest/src/br/com/caelum/loja/rest/LojaResource.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1763" selectionTopPixel="589"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
+<columnWidths org.eclipse.ui.ide.allSeverityField="350" org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="105" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets"/>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Warnings (12 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="494" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">&#x0A;<xmlDefinedFilters>&#x0A;<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsConnections" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsTempFiles" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.mylyn.java.ui.MembersFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jpt.ui.jpaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.AllMarkersView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2590406" ratioLeft="351" ratioRight="1004" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.61935484" ratioLeft="480" ratioRight="295" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="Data Source Explorer"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.69920844" ratioLeft="530" ratioRight="228" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.jboss.ide.eclipse.archives.ui.actions.Archives"/>
+<alwaysOnActionSet id="org.jboss.tools.jst.web.ui.server.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="left">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496791" ratioLeft="1168" ratioRight="390" relationship="2" relative="left">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.26117054" ratioLeft="415" ratioRight="1174" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.5045161" ratioLeft="391" ratioRight="384" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@f9af59" ratio="0.7493584" ratioLeft="876" ratioRight="293" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.5" ratioLeft="290" ratioRight="290" relationship="4" relative="org.eclipse.ui.internal.ViewStack@f9af59">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/fj31-loja-rest/WebContent/WEB-INF/web.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLojaBean.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-rest/src/br/com/caelum/loja/rest/LojaResource.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-loja-rest/src/br/com/caelum/loja/rest/LojaResource.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fj31-jaxb-standalone/src/br/com/caelum/cliente/programa/ConsumidorServicoCorreios.java"/>
+</editors>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="786" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1036" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1069" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1042" y="15"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1113" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1106" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="946" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="947" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="960" y="18"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1001" y="0"/>
+</item>
+<item historyLabel="web.xml" index="0">
+<position info="not_deleted" x="908" y="0"/>
+</item>
+<item historyLabel="GerenciadorLoja.java" index="1">
+<position info="not_deleted" x="316" y="0"/>
+</item>
+<item historyLabel="GerenciadorLojaBean.java" index="2">
+<position info="not_deleted" x="1798" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1001" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1272" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1245" y="15"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1237" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1303" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1356" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1090" y="0"/>
+</item>
+<item historyLabel="web.xml" index="0">
+<position info="not_deleted" x="908" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1090" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1510" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1511" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1565" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1604" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1637" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1610" y="15"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1701" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1837" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1678" y="24"/>
+</item>
+<item historyLabel="GerenciadorLoja.java" index="1">
+<position info="not_deleted" x="260" y="0"/>
+</item>
+<item historyLabel="GerenciadorLojaBean.java" index="2">
+<position info="not_deleted" x="1798" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1678" y="24"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1751" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1821" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="3">
+<position info="not_deleted" x="1656" y="5"/>
+</item>
+<item historyLabel="GerenciadorLojaBean.java" index="2">
+<position info="not_deleted" x="1798" y="0"/>
+</item>
+<item historyLabel="GerenciadorLojaBean.java" index="2">
+<position info="not_deleted" x="1177" y="0"/>
+</item>
+<item historyLabel="GerenciadorLojaBean.java" index="2">
+<position info="not_deleted" x="1748" y="111"/>
+</item>
+<item historyLabel="GerenciadorLojaBean.java" index="2">
+<position info="not_deleted" x="1178" y="18"/>
+</item>
+<item historyLabel="GerenciadorLojaBean.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LojaResource.java" index="4">
+<position info="not_deleted" x="1656" y="5"/>
+</item>
+<item historyLabel="ConsumidorServicoCorreios.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="ConsumidorServicoCorreios.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="topLeft"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomRight"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LojaResource.java" tooltip="fj31-loja-rest/src/br/com/caelum/loja/rest/LojaResource.java">
+<persistable path="/fj31-loja-rest/src/br/com/caelum/loja/rest/LojaResource.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLojaBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLojaBean.java">
+<persistable path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/session/GerenciadorLojaBean.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GerenciadorLoja.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java">
+<persistable path="/fj31-loja-base/src/br/com/caelum/loja/session/GerenciadorLoja.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="web.xml" tooltip="fj31-loja-rest/WebContent/WEB-INF/web.xml">
+<persistable path="/fj31-loja-rest/WebContent/WEB-INF/web.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsultaDeLivrosBean.java" tooltip="fj31-loja-ejb3/ejbModule/br/com/caelum/loja/ConsultaDeLivrosBean.java">
+<persistable path="/fj31-loja-ejb3/ejbModule/br/com/caelum/loja/ConsultaDeLivrosBean.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsultaDeLivrosBean.java" tooltip="fj31-loja-base/src/br/com/caelum/loja/ws/ConsultaDeLivrosBean.java">
+<persistable path="/fj31-loja-base/src/br/com/caelum/loja/ws/ConsultaDeLivrosBean.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConsumidorServicoCorreios.java" tooltip="fj31-jaxb-standalone/src/br/com/caelum/cliente/programa/ConsumidorServicoCorreios.java">
+<persistable path="/fj31-jaxb-standalone/src/br/com/caelum/cliente/programa/ConsumidorServicoCorreios.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Programa.java" tooltip="fj31-webservices-standalone-cliente/src/br/com/caelum/cliente/programa/Programa.java">
+<persistable path="/fj31-webservices-standalone-cliente/src/br/com/caelum/cliente/programa/Programa.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xsd.ui.internal.editor.InternalXSDMultiPageEditor" name="CalculadorDeParcelaService_schema1.xsd" tooltip="fj31-webservice-standalone/CalculadorDeParcelaService_schema1.xsd">
+<persistable path="/fj31-webservice-standalone/CalculadorDeParcelaService_schema1.xsd"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.wsdl.ui.internal.WSDLEditor" name="CalculadorDeParcelaService.wsdl" tooltip="fj31-webservice-standalone/CalculadorDeParcelaService.wsdl">
+<persistable path="/fj31-webservice-standalone/CalculadorDeParcelaService.wsdl"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Publicador.java" tooltip="fj31-webservice-standalone/src/br/com/caelum/webservices/Publicador.java">
+<persistable path="/fj31-webservice-standalone/src/br/com/caelum/webservices/Publicador.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CalculadorDeParcela.java" tooltip="fj31-webservice-standalone/src/br/com/caelum/webservices/CalculadorDeParcela.java">
+<persistable path="/fj31-webservice-standalone/src/br/com/caelum/webservices/CalculadorDeParcela.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="jndi.properties" tooltip="fj31-jms-standalone/src/jndi.properties">
+<persistable path="/fj31-jms-standalone/src/jndi.properties"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="jboss-ejb-client.properties" tooltip="fj31-loja-client/appClientModule/jboss-ejb-client.properties">
+<persistable path="/fj31-loja-client/appClientModule/jboss-ejb-client.properties"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="jndi.properties" tooltip="fj31-loja-client/appClientModule/jndi.properties">
+<persistable path="/fj31-loja-client/appClientModule/jndi.properties"/>
+</file>
+</mruList>
+</workbench>

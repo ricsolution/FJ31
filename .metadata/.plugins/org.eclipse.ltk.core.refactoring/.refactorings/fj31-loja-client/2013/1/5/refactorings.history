@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;GerenciadorLoja.java&apos; to &apos;fj31-loja-base/src/br.com.caelum.loja.session&apos;&#x0A;- Original project: &apos;fj31-loja-client&apos;&#x0A;- Destination element: &apos;fj31-loja-base/src/br.com.caelum.loja.session&apos;&#x0A;- Original element: &apos;br.com.caelum.loja.session.GerenciadorLoja.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=fj31-loja-base/src&lt;br.com.caelum.loja.session" element1="/appClientModule&lt;br.com.caelum.loja.session{GerenciadorLoja.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1359590410862" units="1" version="1.0"/>
+</session>
